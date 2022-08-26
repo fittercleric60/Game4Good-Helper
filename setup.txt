@@ -1,0 +1,2 @@
+You must activate the virtual environment with the below command every time you open a new Command Prompt to run, install or update Red.
+"%userprofile%\redenv\Scripts\activate.bat"
